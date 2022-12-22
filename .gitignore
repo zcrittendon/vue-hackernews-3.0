@@ -2,3 +2,4 @@ node_modules
 dist
 stats.client.json
 stats.server.json
+.DS_Store
